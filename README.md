@@ -53,4 +53,6 @@
     ```
 5. vscodeでjupyterの拡張機能をインストールする
 
+# 参考文献
+[“私にとっての”反応拡散系数値シミュレーション入門基礎編](https://mmc01.es.hokudai.ac.jp/else/cdrom/main_part1.pdf) (2025/01閲覧)
 

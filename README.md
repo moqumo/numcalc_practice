@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/66748d92-c748-44e0-93fe-af47e6880875" width="20%">
 
 # 数値計算ビュッフェ勉強会
-数値計算法をつまみ食い形式で，勉強したり，実装したりする会のためのレポジトリです．
+数値計算法をつまみ食い形式で，勉強したり，実装したりする会のためのレポジトリです．   
 詳細や勉強会計画は，[「数値計算ビュッフェ勉強会」について](https://github.com/moqumo/numcalc_practice/blob/main/about_and_plan.md)から．
 
 ## notebooks

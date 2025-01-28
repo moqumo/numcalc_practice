@@ -1,6 +1,8 @@
-<img src="https://github.com/user-attachments/assets/da356278-d31a-4bee-a15a-7402ad01a098" width="25%">  
 
-# numcalc_practice
+<img src="https://github.com/user-attachments/assets/66748d92-c748-44e0-93fe-af47e6880875" width="20%">
+
+# 数値計算ビュッフェ勉強会
+
 ## notebooks
 ### 常微分方程式の数値計算法(ODE)
 1. オイラー法 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/ODE/notebooks/ODE/01_euler_method.ipynb).

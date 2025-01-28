@@ -1,10 +1,10 @@
 # numcalc_practice
 ## notebooks
-### 常微分方程式の数値計算法
+### 常微分方程式の数値計算法(ODE)
 1. オイラー法 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/ODE/notebooks/ODE/01_euler_method.ipynb)
 2. ルンゲクッタ法
 3. 多変数の常微分方程式の数値計算   
-### 常微分方程式の数理モデル
+### 常微分方程式の数理モデル(ODE_model)
 1. 捕食者-被捕食者モデル -ロトカ・ヴォルテラ方程式-
 2. 感染症 -SIRモデル-
 3. 神経活動1 -フィッツヒュー・南雲方程式-
@@ -12,12 +12,12 @@
 5. BZ反応
 6. カオス1 ローレンツ方程式
 7. カオス2 レスラー方程式   
-### 偏微分方程式の数値計算
+### 偏微分方程式の数値計算(PDE)
 1. 陽解法[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/main/notebooks/PDE/01_explicit_method.ipynb)
 3. 陰解法
 4. ADI法
 5. 有限体積法
-### 偏微分方程式の数理モデル
+### 偏微分方程式の数理モデル(PDE_model)
 1. 波の伝播 -移流方程式-
 2. 体表パターン -チューリングパターン-
 3. BZ反応のらせん波

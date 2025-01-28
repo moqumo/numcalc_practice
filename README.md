@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/da356278-d31a-4bee-a15a-7402ad01a098" width="25%">  
+
 # numcalc_practice
 ## notebooks
 ### 常微分方程式の数値計算法(ODE)

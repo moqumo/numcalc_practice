@@ -1,10 +1,17 @@
-# numcalc_practice
+
+<img src="https://github.com/user-attachments/assets/66748d92-c748-44e0-93fe-af47e6880875" width="25%">
+
+# 数値計算ビュッフェ勉強会
+数値計算法をつまみ食い形式で，勉強したり，実装したりする会のためのレポジトリです．   
+詳細や勉強会計画は，[「数値計算ビュッフェ勉強会」について](https://github.com/moqumo/numcalc_practice/blob/main/about_and_plan.md)から．
+
 ## notebooks
-### 常微分方程式の数値計算法
-1. オイラー法 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/ODE/notebooks/ODE/01_euler_method.ipynb)
-2. ルンゲクッタ法
-3. 多変数の常微分方程式の数値計算   
-### 常微分方程式の数理モデル
+### 常微分方程式の数値計算法(ODE)
+1. オイラー法 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/ODE/notebooks/ODE/01_euler_method.ipynb).
+2. ホイン法
+3. ルンゲクッタ法
+4. 多変数の常微分方程式の数値計算   
+### 常微分方程式の数理モデル(ODE_model)
 1. 捕食者-被捕食者モデル -ロトカ・ヴォルテラ方程式-
 2. 感染症 -SIRモデル-
 3. 神経活動1 -フィッツヒュー・南雲方程式-
@@ -12,6 +19,7 @@
 5. BZ反応
 6. カオス1 ローレンツ方程式
 7. カオス2 レスラー方程式   
+
 ### 偏微分方程式の数値計算
 1. 陽解法[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/PDE/notebooks/PDE/01_explicit_method.ipynb)
 2. 陰解法[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/PDE/notebooks/PDE/02_implicit_method.ipynb)
@@ -54,4 +62,6 @@
     ```
 5. vscodeでjupyterの拡張機能をインストールする
 
+# 参考文献
+[“私にとっての”反応拡散系数値シミュレーション入門基礎編](https://mmc01.es.hokudai.ac.jp/else/cdrom/main_part1.pdf) (2025/01閲覧)
 

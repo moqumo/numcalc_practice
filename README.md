@@ -19,15 +19,17 @@
 5. BZ反応
 6. カオス1 ローレンツ方程式
 7. カオス2 レスラー方程式   
-### 偏微分方程式の数値計算(PDE)
-1. 陽解法[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/main/notebooks/PDE/01_explicit_method.ipynb)
-3. 陰解法
-4. ADI法
-5. 有限体積法
-### 偏微分方程式の数理モデル(PDE_model)
-1. 波の伝播 -移流方程式-
-2. 体表パターン -チューリングパターン-
-3. BZ反応のらせん波
+
+### 偏微分方程式の数値計算
+1. 陽解法[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/PDE/notebooks/PDE/01_explicit_method.ipynb)
+2. 陰解法[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/PDE/notebooks/PDE/02_implicit_method.ipynb)
+3. ADI法
+4. 有限体積法
+### 偏微分方程式の数理モデル
+1. 熱方程式 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/PDE/notebooks/PDE_model/heat_eq/heat_eq.ipynb)
+3. 波の伝播 -移流方程式-
+4. 体表パターン -チューリングパターン-
+5. BZ反応のらせん波
 
 ### ニューラルネットワークによる数値計算（PINN）
 1. PINNs

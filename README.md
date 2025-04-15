@@ -5,6 +5,8 @@
 数値計算法をつまみ食い形式で，勉強したり，実装したりする会のためのレポジトリです．   
 詳細や勉強会計画は，[「数値計算ビュッフェ勉強会」について](https://github.com/moqumo/numcalc_practice/blob/main/about_and_plan.md)から．
 
+ty
+
 ## notebooks
 ### 常微分方程式の数値計算法(ODE)
 1. オイラー法 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moqumo/numcalc_practice/blob/ODE/notebooks/ODE/01_euler_method.ipynb).
